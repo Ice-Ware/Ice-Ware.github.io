@@ -1,37 +1,29 @@
-## Welcome Ice Ware
+# Welcome Ice Ware
 
-You can use the [editor on GitHub](https://github.com/Ice-Ware/Ice-Ware.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Ice Ware is a free keyless scripting utility with lots of features.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to Install Ice Ware
 
-### Markdown
+### Step 1:
+Disable your antivirus or add the "Ice Ware" file to your exclusions. (You need to disable your antivirus because your antivirus may remove a part of the code of Ice Ware.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Step 2:
+[Click here](https://drive.google.com/u/0/uc?id=1hqkKyCkx0XCsjVLOFIBJ62esq7VN3Oqi&export=download) to download Ice Ware!
 
-```markdown
-Syntax highlighted code block
+### Step 3:
+Unzip the file.
 
-# Header 1
-## Header 2
-### Header 3
+### Step 4:
+Click "Ice Ware > Ice Ware.exe".
 
-- Bulleted
-- List
+## This is how Ice Ware looks like:
+![Image](https://cdn.discordapp.com/attachments/989474842661232650/989505663124250664/ICE_WARE_Exploit.png)
 
-1. Numbered
-2. List
+# Features:
+- Script Hub
+- Fly
+- Aimbot
+- More comming soon
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ice-Ware/Ice-Ware.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Need help?
+Join our [Discord Server](discord.io/Ice-Ware)
