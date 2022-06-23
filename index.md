@@ -21,8 +21,6 @@ Click "Ice Ware > Ice Ware.exe".
 
 # Features:
 - Script Hub
-- Fly
-- Aimbot
 - More comming soon
 
 # Need help?
