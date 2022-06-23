@@ -1,4 +1,4 @@
-# Welcome Ice Ware
+# Ice Ware
 
 Ice Ware is a free keyless scripting utility with lots of features.
 
