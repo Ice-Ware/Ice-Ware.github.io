@@ -16,7 +16,7 @@ Unzip the file.
 ### Step 4:
 Click "Ice Ware > Ice Ware.exe".
 
-## This is how Ice Ware looks like:
+## This is what Ice Ware looks like:
 ![Image](https://cdn.discordapp.com/attachments/989474842661232650/989505663124250664/ICE_WARE_Exploit.png)
 
 # Features:
