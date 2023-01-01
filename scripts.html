@@ -1103,11 +1103,25 @@ $(document).ready(function() {
         font: ;
         background-color: ;
     }
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
 </style>
 </head>
 <body>
 <h2>Search Scripts</h2>
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for commands..." title="Start typing a command">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for scripts..." title="Start typing a script name">
 <ul id="myUL">
 <li><a ="#">FE Animations GUI - loadstring(game:HttpGet('https://pastebin.com/cjyiSKQE'))()</a></li>
 <li><a ="#">FE Pendulum Hub - loadstring(game:HttpGet('https://raw.githubusercontent.com/Ice-Ware/FE-Pendulum-Hub/main/script.lua'))()</a></li>
